@@ -4,7 +4,7 @@
 - 👀 Estou iniciando pela linguagem Python, pelo meu interesse em bioinformática
 - 💞️ Logo mais pretendo desenvolver projetos educacionais para obter uma experiência inicial na área
 - 💻 Grupo de estudos em bionformática - Women in Bioinformatics and Data Science LA
-- 📫 Contact me for any sugestions and invites! :) marysfest1@gmail.com
+- 📫 Contact me for any sugestions! :) marysfest1@gmail.com
 
 <!---
 mariaeduarda-sf/mariaeduarda-sf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
